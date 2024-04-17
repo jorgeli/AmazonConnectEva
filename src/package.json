@@ -1,0 +1,20 @@
+{
+  "name": "AmazonConnectEvaForRaaS",
+  "version": "1.0.0",
+  "description": "Código para conectar LEC v2 con eva en el proyecto de RaaS con Amazon Connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://umane.everis.com/git/CHATBOTSEU/amazonconnectevaforraas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "qs": "^6.10.1"
+  }
+}
