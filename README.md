@@ -1,3 +1,3 @@
 # AmazonConnectEvaForRaaS
 
-Código para conectar LEX v2 con eva en el proyecto de RaaS con Amazon Connect
+Code to connect LEXv2 with eva in the RaaS project with Amazon Connect
